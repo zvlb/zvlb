@@ -1,5 +1,5 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaasops&repo=vector-operator)](https://github.com/kaasops/vector-operator&theme=dark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zvlb&repo=config-reloader)](https://github.com/zvlb/config-reloader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaasops&repo=vector-operator&theme=dark)](https://github.com/kaasops/vector-operator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zvlb&repo=config-reloader&theme=dark)](https://github.com/zvlb/config-reloader)
 
 ---
 <p align='center'><code>Hi. My name is Vladimir, and i like to цork with OpenSorce</code></p>
