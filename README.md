@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align='center'><code>Hi. My name is Vladimir, and i like to eork with OpenSorce</code></p>
+<p align='center'><code>Hi. My name is Vladimir, and i like to цork with OpenSorce</code></p>
 
 ---
 ### I work with:
