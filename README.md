@@ -4,7 +4,7 @@
 
 
 ---
-<p align='center'><code>Hi. My name is Vladimir, and i like to work with OpenSorce</code></p>
+<p align='center'><code>Hi. My name is Vladimir, and I like to work with OpenSorce</code></p>
 
 ---
 ### I work with:
